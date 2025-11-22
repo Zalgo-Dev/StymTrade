@@ -2,6 +2,9 @@
 
 Small Python bot that connects to Steam, stores the session refresh token, and auto-accepts incoming gift trades.
 
+### Support my bot project by gifting unused skins :
+https://steamcommunity.com/profiles/76561198774956505/
+
 ## Prerequisites
 - Python 3.10+
 - Steam account with Steam Guard configured
